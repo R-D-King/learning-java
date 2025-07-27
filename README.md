@@ -9,3 +9,5 @@ Projects and Excercises:
 1. [Compound interest calculator](./FirstProject/)
 
 2. [Weight Conversion Program](./secondProject/)
+
+3. [Temperature Converter](./thirdProject/)
