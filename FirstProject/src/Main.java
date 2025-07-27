@@ -6,7 +6,7 @@ public class Main {
         // Initializing a Scanner
         Scanner input = new Scanner(System.in);
 
-        // Initializing Variables
+        // Declare Variables
         double principal;
         double rate;
         int timesCompounded;
@@ -30,7 +30,7 @@ public class Main {
 
         // Calculating the interest
         amount = principal * Math.pow(1 + (rate / timesCompounded), timesCompounded * years);
-        System.out.printf("Your amount after %d year/s is $%f\n", years, amount);
+        System.out.printf("Your amount after %d year/s is $%.2f\n", years, amount);
 
         
         // Closing the Scanner
