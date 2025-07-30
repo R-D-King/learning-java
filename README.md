@@ -4,7 +4,7 @@ This Repo is for Code and Small Projects Made While Learning Java Programming La
 
 First Course is form [Bro Code - Java Full Course](https://youtu.be/xTtL8E4LzTQ?si=ePXdnz3uEDPXlyyI):
 
-Projects and Excercises:
+Projects and Exercises:
 
 1. [Compound interest calculator](./FirstProject/)
 
@@ -13,3 +13,5 @@ Projects and Excercises:
 3. [Temperature Converter](./thirdProject/)
 
 4. [Simple Calculator Program](./fourthProject/)
+
+5. [Guessing Game](./fifthProject/)
