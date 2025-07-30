@@ -15,3 +15,5 @@ Projects and Exercises:
 4. [Simple Calculator Program](./fourthProject/)
 
 5. [Guessing Game](./fifthProject/)
+
+6. [Banking Program](./sixthProject/)
