@@ -17,3 +17,5 @@ Projects and Exercises:
 5. [Guessing Game](./fifthProject/)
 
 6. [Banking Program](./sixthProject/)
+
+7. [Dice Roller Program](./seventhProject/)
