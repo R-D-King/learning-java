@@ -11,3 +11,5 @@ Projects and Excercises:
 2. [Weight Conversion Program](./secondProject/)
 
 3. [Temperature Converter](./thirdProject/)
+
+4. [Simple Calculator Program](./fourthProject/)
