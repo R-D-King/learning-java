@@ -19,3 +19,7 @@ Projects and Exercises:
 6. [Banking Program](./sixthProject/)
 
 7. [Dice Roller Program](./seventhProject/)
+
+8. [Quiz Game](./eighthProject/)
+
+9. [](./ninthProject/)
