@@ -22,4 +22,6 @@ Projects and Exercises:
 
 8. [Quiz Game](./eighthProject/)
 
-9. [](./ninthProject/)
+9. [Rock Paper Scissors Game](./ninthProject/)
+
+10. []()
