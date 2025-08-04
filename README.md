@@ -24,4 +24,4 @@ Projects and Exercises:
 
 9. [Rock Paper Scissors Game](./ninthProject/)
 
-10. []()
+10. [Slot Machine](./10thProject/)
