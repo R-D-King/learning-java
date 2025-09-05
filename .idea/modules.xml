@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/10thProject/10thProject.iml" filepath="$PROJECT_DIR$/10thProject/10thProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FirstProject/FirstProject.iml" filepath="$PROJECT_DIR$/FirstProject/FirstProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eighthProject/eighthProject.iml" filepath="$PROJECT_DIR$/eighthProject/eighthProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fifthProject/fifthProject.iml" filepath="$PROJECT_DIR$/fifthProject/fifthProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fourthProject/fourthProject.iml" filepath="$PROJECT_DIR$/fourthProject/fourthProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/learning-java.iml" filepath="$PROJECT_DIR$/.idea/learning-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ninthProject/ninthProject.iml" filepath="$PROJECT_DIR$/ninthProject/ninthProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secondProject/secondProject.iml" filepath="$PROJECT_DIR$/secondProject/secondProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seventhProject/seventhProject.iml" filepath="$PROJECT_DIR$/seventhProject/seventhProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sixthProject/sixthProject.iml" filepath="$PROJECT_DIR$/sixthProject/sixthProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thirdProject/thirdProject.iml" filepath="$PROJECT_DIR$/thirdProject/thirdProject.iml" />
+    </modules>
+  </component>
+</project>
