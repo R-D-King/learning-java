@@ -25,3 +25,7 @@ Projects and Exercises:
 9. [Rock Paper Scissors Game](./ninthProject/)
 
 10. [Slot Machine](./10thProject/)
+
+11. ["Let It Happen" Audio Player](./11thProject/)
+
+12. [Hangman Game](./12thProject/)
