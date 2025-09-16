@@ -1,20 +1,45 @@
+import java.io.BufferedReader;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Random;
 import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
 
         // Hangman Game
+
+        // Reading the words file
+        String filePath = "words.txt";
+        ArrayList<String> words = new ArrayList<>();
+
+        try(BufferedReader reader = new BufferedReader(new FileReader(filePath))){
+            String line;
+            while((line = reader.readLine()) != null){
+                words.add(line.trim());
+            }
+
+        } catch (FileNotFoundException e) {
+            System.out.println("Words file couldn't be found!");
+        } catch (IOException e) {
+            System.out.println("Something went wrong!");
+        }
+
+        // Randomly choosing a word
+        Random rand = new Random();
+        String word = words.get(rand.nextInt(words.size()));
+
+
         System.out.println("#######################");
         System.out.println("Welcome to Java Hangman");
         System.out.println("You get 6 Wrong Guesses");
         System.out.println("#######################");
 
         // Variables
-        String word = "pizza";
         Scanner input = new Scanner(System.in);
         ArrayList<Character> wordState = new ArrayList<>();
-        int wrongGuesses = 0;
         int triesLeft = 6;
 
         // Get the word state
@@ -75,6 +100,7 @@ public class Main {
         }
 
         input.close();
+
     }
     static String getHangmanArt(int triesLeft) {
         return switch (triesLeft){
